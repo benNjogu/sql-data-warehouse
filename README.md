@@ -9,3 +9,8 @@ Building a modern data warehouse with SQL Server including ETL processes, data m
 # bronze layer dataflow
 
 ![bronze data flow](https://github.com/user-attachments/assets/d2bc7f45-18d3-4555-b56a-5d567b5b6b94)
+
+# integration model
+
+![integration model](https://github.com/user-attachments/assets/2b868ec5-9e80-4f94-aeb1-a87642035545)
+
