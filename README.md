@@ -4,7 +4,7 @@ Building a modern data warehouse with SQL Server including ETL processes, data m
 
 # warehouse architecture
 
-![architecture](https://github.com/user-attachments/assets/b9392956-9270-42c4-803a-6b9d68f49d5a)
+![architecture](https://github.com/user-attachments/assets/a7547837-4e96-4003-acf2-b0b21f84bc12)
 
 # bronze layer dataflow
 
