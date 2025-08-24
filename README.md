@@ -18,5 +18,10 @@ Building a modern data warehouse with SQL Server including ETL processes, data m
 
 <img width="724" height="648" alt="silver layer dataflow" src="https://github.com/user-attachments/assets/61d9b2e6-be27-40c2-b1d8-29a5888d5b0a" />
 
+# dimensions and facts
+
+![integration model](https://github.com/user-attachments/assets/c3cd34ba-285f-4ef5-91a5-b07e5b231390)
+
+
 
 
