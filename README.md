@@ -4,7 +4,7 @@ Building a modern data warehouse with SQL Server including ETL processes, data m
 
 # warehouse architecture
 
-![architecture](https://github.com/user-attachments/assets/b9392956-9270-42c4-803a-6b9d68f49d5a)
+![architecture](https://github.com/user-attachments/assets/3b599539-30fa-48b1-8b7f-54a58b795816)
 
 # bronze layer dataflow
 
@@ -17,6 +17,14 @@ Building a modern data warehouse with SQL Server including ETL processes, data m
 # silver layer dataflow
 
 <img width="724" height="648" alt="silver layer dataflow" src="https://github.com/user-attachments/assets/61d9b2e6-be27-40c2-b1d8-29a5888d5b0a" />
+
+# dimensions and facts
+
+![integration model](https://github.com/user-attachments/assets/56e84fc3-f340-4528-9936-934c8d3f42c5)
+
+# data model for star schema
+
+![Data Model of Star Schema](https://github.com/user-attachments/assets/5fbae7e0-f74a-48f9-97ff-c958fec20fe1)
 
 
 
