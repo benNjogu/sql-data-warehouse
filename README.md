@@ -26,5 +26,8 @@ Building a modern data warehouse with SQL Server including ETL processes, data m
 
 ![Data Model of Star Schema](https://github.com/user-attachments/assets/5fbae7e0-f74a-48f9-97ff-c958fec20fe1)
 
+# extended data flow
+
+![finished data flow](https://github.com/user-attachments/assets/3ca52c8d-4f0a-4e34-8a26-0f215631d580)
 
 
